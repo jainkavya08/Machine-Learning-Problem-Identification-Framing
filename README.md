@@ -69,7 +69,7 @@ based on user interests and activity.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies to be Used
 
 - Python
 - Scikit-learn
