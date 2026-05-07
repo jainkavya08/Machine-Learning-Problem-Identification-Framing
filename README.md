@@ -1,4 +1,11 @@
-# Machine-Learning-Problem-Identification-Framing
+# VAUTECH IT SOLUTIONS- TASK 1
+--
+Intern: Kavya Jain
+Domain: Machine Learning
+Company: VAUTECH IT SOLUTIONS
+Mentor: Vishal Rajbhar
+
+# Task : Machine-Learning-Problem-Identification-Framing
 
 Machine Learning Problem Identification and Framing using real-world industry use cases. This project explains how real-world problems can be converted into Machine Learning problems using classification and recommendation systems.
 
